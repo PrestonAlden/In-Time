@@ -12,5 +12,10 @@ public class Player: monoBehaviour
     {
         // what happens with the player every tick goes here
         // such as movement
+        
+                if (Input.GetKey("space"))
+                {
+                // jump
+                }
     }
 }
